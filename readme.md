@@ -6,8 +6,10 @@ virtualbox - https://www.virtualbox.org/wiki/Downloads
 
 vagrant - https://www.vagrantup.com/
 
-## editing the 
 
+```
+vagrant status
+```
 
 ```
 vagrant up
@@ -18,6 +20,6 @@ vagrant destroy
 ```
 
 ```
-vagrant ssh
+vagrant ssh [name of the VM]
 ```
 
